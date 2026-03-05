@@ -1,4 +1,4 @@
-MIT License
+MIT License - V1.1
 
 Copyright (c) 2024 Veracode Demo Labs
 
